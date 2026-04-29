@@ -2,7 +2,7 @@
 
 > Organizador financeiro mensal — simples, bonito e que roda direto no navegador, sem instalar nada.
 
-🔗 **[Acesse o site](https://seu-usuario.github.io/nome-do-repositorio)**
+🔗 **[Acesse o site]([https://seu-usuario.github.io/nome-do-repositorio](https://luholiveira56.github.io/financas-pessoais/))**
 
 ---
 
